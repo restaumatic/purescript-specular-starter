@@ -123,5 +123,5 @@ in upstream
         , "avar"
     ]
     , repo = "https://github.com/restaumatic/purescript-specular.git"
-    , version = "master"
+    , version = "v0.11.0-purs0.13-1"
   }
