@@ -8,7 +8,7 @@
   "author": "kozak",
   "license": "MIT",
   "devDependencies": {
-    "purescript": "^0.13.8",
+    "purescript": "^0.14.3",
     "spago": "^0.20.0"
   }
 }
