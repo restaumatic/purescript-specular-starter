@@ -9,6 +9,7 @@
   "license": "MIT",
   "devDependencies": {
     "purescript": "^0.15.0",
-    "spago": "^0.20.9"
+    "spago": "^0.20.9",
+    "esbuild": "^0.14.39"
   }
 }

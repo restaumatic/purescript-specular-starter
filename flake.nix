@@ -29,6 +29,7 @@
             purs-tidy
             spago
             nodejs
+            esbuild
           ];
         };
       });
