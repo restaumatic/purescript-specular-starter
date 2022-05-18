@@ -24,13 +24,12 @@
       {
         devShell = pkgs.mkShell {
           buildInputs = with pkgs; [
-            psa
             purescript-language-server
             purs
             purs-tidy
             spago
-            pscid
             nodejs
+            esbuild
           ];
         };
       });
